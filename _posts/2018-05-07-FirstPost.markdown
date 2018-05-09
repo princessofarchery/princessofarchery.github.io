@@ -3,7 +3,7 @@ layout: post
 title:  "First Post!"
 date:   2018-05-07 14:24:49 -0700
 categories: uncategorized
-author: Still Some random person
+author: Still some random person
 ---
 
 ## First Post
