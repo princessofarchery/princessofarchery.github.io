@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Second Post!Cause why the heck not!"
+date:   2018-05-07 14:31:49 -0700
+categories: uncategorized
+author: The same random person
+---
 # Biggest Header
 ## Second Biggest Header
 ### Another Header
