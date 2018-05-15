@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<script type="text/javascript">
+var d= Number(prompt("How far are you traveling?"));
+var s = Number(prompt("How fast was your average speed?"));
+var t= d/s;
+// 2.5
+
+var h = Math.floor (t);
+// 2
+
+var m = Number( (t- h)*60);
+m = Math.floor(m);
+document.write ( " It will take you " + h + " hours and " + m + " minutes.");
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>7.8</title>
+</head>
+
+<body>
+<script type ="text/javascript">
+	var hr = Number(prompt("What is the hour? (Please round to the nearest hour)"));
+	
+	if (hr >= 6 && hr <= 10 ) {
+		alert("There is continental breakfast served in the lobby."); 
+	}
+	
+	else if ( hr >= 11 && hr <= 12) { 
+		var m = prompt("The restaraunt is open would you like a reservation?"); 
+	}
+	
+	else if ( hr >= 0 && hr <= 2) { 
+		var m = prompt("The restaraunt is open would you like a reservation?"); 
+	}
+
+else if ( hr >= 5  && hr <= 9) { 
+		var m = prompt("You can order room service or visit the restaraunt. Would you like to make a reservation?"); 
+	}
+
+else {
+	alert("You'll have to wait or you can go out for a snack."); }
+</script>
+</body>
+</html>
